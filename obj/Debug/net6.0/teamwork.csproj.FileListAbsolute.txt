@@ -1,0 +1,15 @@
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.csproj.AssemblyReference.cache
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.AssemblyInfoInputs.cache
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.AssemblyInfo.cs
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.csproj.CoreCompileInputs.cache
+D:\Desktop\seminarC#\seminar2\teamwork\bin\Debug\net6.0\teamwork.exe
+D:\Desktop\seminarC#\seminar2\teamwork\bin\Debug\net6.0\teamwork.deps.json
+D:\Desktop\seminarC#\seminar2\teamwork\bin\Debug\net6.0\teamwork.runtimeconfig.json
+D:\Desktop\seminarC#\seminar2\teamwork\bin\Debug\net6.0\teamwork.dll
+D:\Desktop\seminarC#\seminar2\teamwork\bin\Debug\net6.0\teamwork.pdb
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.dll
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\refint\teamwork.dll
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.pdb
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\teamwork.genruntimeconfig.cache
+D:\Desktop\seminarC#\seminar2\teamwork\obj\Debug\net6.0\ref\teamwork.dll
